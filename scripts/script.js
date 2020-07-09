@@ -44,3 +44,4 @@ modalItem.addEventListener('click', (event) => {
     modalItem.classList.add('hide');
   }
 });
+// ghbdtn
